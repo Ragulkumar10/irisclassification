@@ -16,7 +16,7 @@ This repository contains the code and resources for a machine learning project f
 
 ### Data
 
-The Iris dataset (`iris.csv`) is available in the `data/` directory. The dataset contains features such as sepal length, sepal width, petal length, and petal width, along with the corresponding iris species.
+The Iris dataset (`iris.csv`) is available in the directory. The dataset contains features such as sepal length, sepal width, petal length, and petal width, along with the corresponding iris species.
 
 
 ## Model Evaluation
